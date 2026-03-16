@@ -39,6 +39,20 @@ Açıklama: Paradise Development’in en gözde geliştiricilerinden Promax’ı
 
 ---
 
+### Kanıt 6
+![Nightlight Launcher Altyapısı](1746539813592.webp)
+
+Açıklama: Burada uygulamalarının altyapısının **Nightlight Launcher’den alındığı** kanıtlanıyor.
+
+---
+
+### Kanıt 7
+![Nightlight Launcher VirusTotal Sonucu](1746539926246.webp)
+
+Açıklama: Nightlight Launcher’in VirusTotal sonucunda **75 antivirüsten 34’ü uyarı vermiş**, bu da **Nowacs programının aslında bir virüs yuvası** olduğunu gösteriyor.
+
+---
+
 ## ⚖ Uyarı ve Amaç
 
 Bu depo **sadece belgeleme ve farkındalık amacıyla** hazırlanmıştır.  
